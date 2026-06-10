@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kyaw Swar Hein
+# Hi 👋, I'm Kyaw Swar Hein
 
 ### ICT Student • AI • Data Science • Software Engineering
 
