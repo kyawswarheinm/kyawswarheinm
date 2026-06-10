@@ -11,21 +11,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge)
 
-<br><br>
 
-## 📈 GitHub Activity
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawswarheinm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarheinm&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-## ⚡ Tech Stack
+## ⚡ Tech Stacks
 
 <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,fastapi,react,nodejs,express,git,github,vscode" />
 
@@ -43,25 +30,26 @@
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-DC2626?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-7C3AED?style=for-the-badge)
 
-<br><br>
 
-## 🌐 Connect With Me
+## 📈 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawswarheinm&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarheinm&theme=tokyonight&hide_border=true"/>
+<br><br>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyawswarheinm&theme=tokyo-night&hide_border=true" />
+
+## 🌐 Socials
 
 <a href="https://kyawswarheinm.vercel.app">
   <img src="https://img.shields.io/badge/Visit_Portfolio-16A34A?style=for-the-badge" />
 </a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/kyawswarheinm">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:heinm.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-6B7280?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyawswarheinm&theme=tokyo-night&hide_border=true" />
-
 
 </div>
