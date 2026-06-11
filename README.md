@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6D28D9&text=Kyaw%20Swar%20Hein&fontColor=ffffff&fontAlignY=40&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=663399&text=Kyaw%20Swar%20Hein&fontColor=ffffff&fontAlignY=40&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&pause=2500\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&lines=ICT+Student+@+Rangsit+University;AI+%26+Data+Science+Enthusiast;Computer+Vision+Developer;Building+Practical+Technology+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&pause=2500\&color=663399\&center=true\&vCenter=true\&width=900\&lines=ICT+Student+@+Rangsit+University;AI+%26+Data+Science+Enthusiast;Computer+Vision+Developer;Building+Practical+Technology+Solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,8 +18,8 @@
   <a href="https://linkedin.com/in/kyawswarheinm">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/{twitter_username}">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.kaggle.com/kyawswarheinm">
+    <img src="https://img.shields.io/badge/-Kaggle-4c4c4c?style=for-the-badge&logo=kaggle&logoColor=#20BEFF" alt="Kaggle" />
   </a>
   <a href="mailto:heinm.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -168,12 +168,11 @@
 
 <div align="center">
   
-
+***Random Dev Quote***
 <div align="center">
-  *Random Dev Quote*
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6D28D9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=663399"/>
