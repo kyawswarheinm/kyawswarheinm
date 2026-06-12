@@ -39,22 +39,6 @@
 
 </div>
 
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-| Achievement | Recognition                                  |
-| ----------- | -------------------------------------------- |
-| 🥇          | RSU Hospitality ERP Hackathon 2025           |
-| 🥇          | RIC Startup & Entrepreneurship Pitching 2025 |
-| 📊          | RSUCON 2026 Research Presenter               |
-| 📖          | Published Conference Proceeding Author       |
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -71,50 +55,21 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics Dashboard
 
 <div align="center">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyawswarheinm&color=336699" />
+  <img height="35" src="https://komarev.com/ghpvc/?username=kyawswarheinm&label=PROFILE+VIEWS&color=4C71F2&style=for-the-badge" />
 </p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawswarheinm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarheinm&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&theme=tokyonight"/>
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyawswarheinm&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyawswarheinm&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarheinm&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&theme=tokyonight"/>
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawswarheinm&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawswarheinm&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
----
 
 ## 🐍 Feeding my Snake with Contributions
 
