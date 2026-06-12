@@ -74,6 +74,9 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kyawswarheinm&color=336699" />
+</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
