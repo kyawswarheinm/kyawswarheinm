@@ -4,6 +4,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&pause=2500\&color=663399\&center=true\&vCenter=true\&width=900\&lines=ICT+Student+@+Rangsit+University;AI+%26+Data+Science+Enthusiast;Computer+Vision+Developer;Building+Practical+Technology+Solutions)](https://git.io/typing-svg)
 
+<div align="left">
+  
+  👋 Hi, I'm Kyaw Swar Hein
+  
+  I'm a final-year ICT student passionate about Data Science, Artificial Intelligence and more. Most of my projects start with a simple question: *"What happens if I try this?"* and end with a lot of experimentation, debugging, and the occasional late-night breakthrough.
+  
+  Along the way, I've published a conference research paper, won first place in multiple competitions , and built end-to-end projects that combine data, software engineering, and business problem-solving.
+  
+  My goal is to keep growing into a stronger Data Scientist and AI practitioner. Feel free to explore the repositories, check out the featured projects, and follow along as I continue learning, building, and occasionally teaching computers to do things they probably shouldn't. 🤖
+</div>
+---
+
+*.... As always, `WW91IGFyZSBsb3ZlZCBhbmQgeW91IGFyZSB2YWx1ZWQ=`*
+
 ## ⚡ Languages & Tools
 
 <div align="center">
