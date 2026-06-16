@@ -7,36 +7,25 @@
 ## ⚡ Languages & Tools
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,vite,fastapi,nodejs,express,postgres,pytorch,git&perline=5" />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+<br />
 
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ultralytics%20YOLO-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
 
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge\&logo=express\&logoColor=white)
-
-
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-7C3AED?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-
-
-![Data Science](https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-16A34A?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0891B2?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-F59E0B?style=for-the-badge)
-
+<div align="center" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-0891B2?style=for-the-badge" />
 </div>
 
 
