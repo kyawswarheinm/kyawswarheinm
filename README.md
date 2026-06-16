@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 GitHub Analytics Dashboard
+## 📈 GitHub Statistics
 
 <div align="center">
 <p align="center">
