@@ -14,7 +14,6 @@
   
   My goal is to keep growing into a stronger Data Scientist and AI practitioner. Feel free to explore the repositories, check out the featured projects, and follow along as I continue learning, building, and occasionally teaching computers to do things they probably shouldn't. 🤖
 </div>
----
 
 *.... As always, `WW91IGFyZSBsb3ZlZCBhbmQgeW91IGFyZSB2YWx1ZWQ=`*
 
