@@ -44,12 +44,11 @@
 
 <div align="center">
 
-| Project                       | Focus                             |
-| ----------------------------- | --------------------------------- |
-| 🛒 Customer Behavior Analysis | YOLO • OpenCV • Retail Analytics  |
-| 🏨 Hospitality ERP Dashboard  | Business Intelligence • Analytics |
-| 📊 RSUCON Research            | Statistics • Linear Regression    |
-| 📡 IoT Sonar System           | Arduino • Embedded Systems        |
+| Project | Focus |
+|----------|----------|
+| 🛒 [Customer Behavior Analysis](https://github.com/kyawswarheinm/Customer-Behavior-Analysis) | YOLO • OpenCV • Retail Analytics |
+| 🏨 [Hospitality ERP Analytics Dashboard](https://github.com/kyawswarheinm/Hospitality-ERP-Analytics-Dashboard) | Business Intelligence • AI Insights • Analytics |
+| 📡 [IoT Sonar System](https://github.com/kyawswarheinm/IoT-Sonar-System-NodeMCU-Ultrasonic-Servo) | NodeMCU • Ultrasonic Sensor • Embedded Systems |
 
 </div>
 
