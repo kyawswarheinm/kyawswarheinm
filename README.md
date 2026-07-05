@@ -9,9 +9,7 @@
   👋 Hi, I'm Kyaw Swar Hein
   
   I'm a final-year ICT student passionate about Data Science, Artificial Intelligence and more. Most of my projects start with a simple question: *"What happens if I try this?"* and end with a lot of experimentation, debugging, and the occasional late-night breakthrough.
-  
-  Along the way, I've published a conference research paper, won first place in multiple competitions , and built end-to-end projects that combine data, software engineering, and business problem-solving.
-  
+    
   My goal is to keep growing into a stronger Data Scientist and AI practitioner. Feel free to explore the repositories, check out the featured projects, and follow along as I continue learning, building, and occasionally teaching computers to do things they probably shouldn't. 🤖
 </div>
 
@@ -62,11 +60,9 @@
 <p align="center">
   <img height="35" src="https://komarev.com/ghpvc/?username=kyawswarheinm&label=PROFILE+VIEWS&color=4C71F2&style=for-the-badge" />
 </p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyawswarheinm&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarheinm&theme=tokyonight&hide_border=true"/>
 <p align="center">
   <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&theme=tokyonight"/>
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawswarheinm&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawswarheinm&theme=tokyo-night&hide_border=true"/>
 </div>
