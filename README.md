@@ -60,7 +60,7 @@
 <p align="center">
   <img height="35" src="https://komarev.com/ghpvc/?username=kyawswarheinm&label=PROFILE+VIEWS&color=4C71F2&style=for-the-badge" />
 </p>
-<img src="https://streak-stats.demolab.com?user=kyawswarheinm&theme=github-dark-blue" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kyawswarheinm&theme=tokyonight" alt="GitHub Streak" />
 <p align="center">
   <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&theme=tokyonight"/>
 </p>
