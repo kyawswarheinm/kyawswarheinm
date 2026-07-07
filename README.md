@@ -47,6 +47,7 @@
 | Project | Focus |
 |----------|----------|
 | 🛒 [Customer Behavior Analysis](https://github.com/kyawswarheinm/Customer-Behavior-Analysis) | YOLO • OpenCV • Retail Analytics |
+| 📈 [Pantip SET Sentiment](https://github.com/kyawswarheinm/Pantip-Sentiment) | NLP • Sentiment Analysis • Automation |
 | 🏨 [Hospitality ERP Analytics Dashboard](https://github.com/kyawswarheinm/Hospitality-ERP-Analytics-Dashboard) | Business Intelligence • AI Insights • Analytics |
 | 📡 [IoT Sonar System](https://github.com/kyawswarheinm/IoT-Sonar-System-NodeMCU-Ultrasonic-Servo) | NodeMCU • Ultrasonic Sensor • Embedded Systems |
 
