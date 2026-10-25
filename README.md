@@ -1,13 +1,47 @@
 
-<p align="center">
-  <a href="https://heinm.dev">
-    <img
-      src="./assets/identity-card.svg"
-      alt="Kyaw Swar Hein — ASCII Developer Identity Card"
-      width="100%"
-    />
-  </a>
-</p>
+<!-- Identity card -->
+<table>
+  <tr>
+    <td width="39%" valign="top">
+      <img
+        src="./assets/identity-card.svg"
+        width="100%"
+        alt="ASCII-art portrait of Kyaw Swar Hein"
+      />
+    </td>
+    <td width="61%" valign="top">
+      <h2>Kyaw Swar Hein</h2>
+      <p><strong>AI · Data Science · Software Engineering</strong></p>
+
+      <p>
+        <sub>01 / AFFILIATION</sub><br />
+        Final-year ICT student · Rangsit University
+      </p>
+
+      <p>
+        <sub>02 / PRACTICE</sub><br />
+        Data Science · Artificial Intelligence · Machine Learning<br />
+        <em>Learn / Build / Experiment</em>
+      </p>
+
+      <p>
+        <sub>03 / SELECTED WORK</sub><br />
+        <a href="https://github.com/kyawswarheinm/Customer-Behavior-Analysis">Customer Behavior Analysis</a> · Computer Vision<br />
+        <a href="https://github.com/kyawswarheinm/Pantip-Sentiment">Pantip SET Sentiment</a> · NLP<br />
+        <a href="https://github.com/kyawswarheinm/Hospitality-ERP-Analytics-Dashboard">Hospitality ERP Analytics Dashboard</a> · BI<br />
+        <a href="https://github.com/kyawswarheinm/IoT-Sonar-System-NodeMCU-Ultrasonic-Servo">IoT Sonar System</a> · Embedded Systems
+      </p>
+
+      <p>
+        <sub>04 / COORDINATES</sub><br />
+        <a href="https://heinm.dev">Website</a> ·
+        <a href="mailto:heinm.dev@gmail.com">Email</a> ·
+        <a href="https://linkedin.com/in/kyawswarheinm">LinkedIn</a> ·
+        <a href="https://www.kaggle.com/kyawswarheinm">Kaggle</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 00 / Field notes
 
@@ -19,36 +53,21 @@ My goal is to keep growing into a stronger Data Scientist and AI practitioner. F
 
 *.... As always, `WW91IGFyZSBsb3ZlZCBhbmQgeW91IGFyZSB2YWx1ZWQu`*
 
-### 01 / Selected projects
-
-| Case | Project | Focus |
-|:---:|---|---|
-| 01 | [Customer Behavior Analysis](https://github.com/kyawswarheinm/Customer-Behavior-Analysis) | YOLO · OpenCV · Retail Analytics |
-| 02 | [Pantip SET Sentiment](https://github.com/kyawswarheinm/Pantip-Sentiment) | NLP · Sentiment Analysis · Automation |
-| 03 | [Hospitality ERP Analytics Dashboard](https://github.com/kyawswarheinm/Hospitality-ERP-Analytics-Dashboard) | Business Intelligence · AI Insights · Analytics |
-| 04 | [IoT Sonar System](https://github.com/kyawswarheinm/IoT-Sonar-System-NodeMCU-Ultrasonic-Servo) | NodeMCU · Ultrasonic Sensor · Embedded Systems |
-
-### 02 / GitHub activity
+### 01 / GitHub activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyawswarheinm&amp;theme=tokyonight"
     alt="GitHub Profile Summary"
     width="90%"
   />
 </p>
 
-### 03 / Random dev quote
+### 02 / Random dev quote
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical"
     alt="Random Dev Quote"
   />
 </p>
-
-### 04 / Coordinates
-
-**Website** · [heinm.dev](https://heinm.dev) &nbsp; / &nbsp; **Email** · [heinm.dev@gmail.com](mailto:heinm.dev@gmail.com)
-
-**Network** · [LinkedIn](https://linkedin.com/in/kyawswarheinm) &nbsp; / &nbsp; **Data** · [Kaggle](https://www.kaggle.com/kyawswarheinm)
